@@ -59,9 +59,3 @@ Here are some ideas to get you started:
   - Expected outcome: 2% increase in conversion rate on booking sites.
 - Overseas Study in Vietnam (Sep 2019-Jan 2020)
   - Visited Taiwanese enterprises in Vietnam, collaborated with The Council of Taiwanese Chambers of Commerce, and created a report and video documenting the experience.
-
-**Contact Information:**
-- Tel: +886-986675949
-- Email: dino.1g.yc@gmail.com
-- GitHub: [Dino1G](https://github.com/Dino1G)
-- LinkedIn: [Dino Huang](https://www.linkedin.com/in/dino-huang)
