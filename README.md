@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Dino1G/Dino1G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
