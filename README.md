@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Dino Huang
+### Hi there, I'm Dino Huang 👋
+
+🔒 **Note**: Most of my work is set to private. If you're interested in viewing any of my repositories or projects, please [open an issue](https://github.com/Dino1G/Dino1G/issues/new) on this repository or send me a direct message here on GitHub. I'd be happy to share more about my work with you.
+
+---
 
 **Skills:** Python, R, SQL, Java, ChatALL, Docker, Hadoop, Hive, Git, NiFi, Google Analytics
 
