@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Dino Huang 👋
 
-🔒 **Note**: Most of my work is set to private. If you're interested in viewing any of my repositories or projects, please [open an issue](https://github.com/Dino1G/Dino1G/issues/new) on this repository or send me a direct message here on GitHub. I'd be happy to share more about my work with you.
+🔒 **Note**: Most of my work is set to private. If you're interested in viewing any of my repositories or projects, I'd appreciate it if you could reach out to me directly through [LinkedIn](www.linkedin.com/in/dino-huang-6ba4a6209). I'd be happy to share more about my work with you.
 
 ---
 
