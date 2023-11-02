@@ -61,4 +61,13 @@ Here are some ideas to get you started:
   - Optimized GA structure and proposed a marketing strategy.
   - Expected outcome: 2% increase in conversion rate on booking sites.
 - Overseas Study in Vietnam (Sep 2019-Jan 2020)
-  - Visited Taiwanese enterprises in Vietnam, collaborated with The Council of Taiwanese Chambers of Commerce, and created a report and video documenting the experience.
+  - Visited Taiwanese enterprises and spoke with top management
+  - Communicated with The Council of Taiwanese Chambers of Commerce in Vietnam
+  - Produced a written report and video reflecting on the journey
+- ATCC Case Competition (Mar 2018-Jun 2018)
+  - Led a team of 4 students to work with Zuvio
+  - Was responsible for research, brainstorming project, and composing project
+  - Proposed “Deli Map” project based on client’s large body of student users and college students’ dining preferences
+- The 2019 Taipei Medical University Health Blockchain Hackathon (Apr 2018)
+  - Participated in the event to strengthen relevant knowledge and skills
+
