@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/Dino1G/Dino1G/assets/74238273/d207d7bc-75cf-4069-af97-7aafd6b8bbc2)<!--
 **Dino1G/Dino1G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 ---
 
 **Skills:** Python, R, SQL, Java, Docker, Hadoop, Git
-**Domain Knowledge** Data ScienceDeep learning, Machine learning, NLP, LLM
+
+**Domain Knowledge** Data Science, Deep learning, Machine learning, NLP, LLM
 
 **Education:**
 - MSc in Data Science, Lancaster University, UK
-  - Dissertation Title: "A&E Inpatient Clustering Using K-Prototypes for Length of Stay Analysis: A Comparative Study Before and After COVID-19"
-- MBA (degree not obtained), National Yang Ming Chiao Tung University, Taiwan
+  - Dissertation: "A&E Inpatient Clustering Using K-Prototypes for Length of Stay Analysis: A Comparative Study Before and After COVID-19"
+- MBA (Certificate), National Yang Ming Chiao Tung University, Taiwan
 - BBA in Big Data Management with Program of Technology Management, Soochow University, Taiwan
   - Undergraduate Research: "NLP Applications in Media Literacy: An Analysis through LIAR"
 
