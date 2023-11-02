@@ -51,9 +51,11 @@ Here are some ideas to get you started:
   - Designed efficient Hive database schema with an Entity Relationship Diagram.
   - Successfully optimized data processing infrastructure, distributing HDFS datanodes and executing MapReduce jobs.
 - 2nd place, Chunghwa Post Big Data Competition (Mar 2019-Jun 2019)
-  - Team name: DATA 4MERS (4 students and 1 professor)
-  - Responsible for pitching, presenting the project, data analysis, and data mining.
+  - Team name: DATA 4MERS (4 students and 1 professor).
+  - Was responsible for pitching, presenting the project, data analysis, and data mining.
   - Proposed a creative approach to integrate online and offline mail and package delivery services.
+  - Expected outcomes: improvement rate of 37%, reduction of NT$1m (or £26,700) of personnel costs per year, and 50% of increase in average LTV on Postmall.
+  - Won a prize of NT$200,000.
 - Marketing strategies for The Lalu Hotel using Google Analytics (Sep 2019-Jan 2020)
   - Led a team of 5 students.
   - Responsible for pitching, presenting the project, data analysis, and data mining.
