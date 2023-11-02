@@ -29,25 +29,24 @@ Here are some ideas to get you started:
   - Undergraduate Research: "NLP Applications in Media Literacy: An Analysis through LIAR"
 
 **Work Experience:**
-- Data Scientist (Mar 2023-Sep 2023)
-  - WWL NHS Foundation Trust, Wigan, UK
-  - Leveraged Qlik and Python to analyze healthcare data, resulting in a 20% reduction in patient length of stay by identifying post-pandemic factors and recommending targeted improvements.
+- Data Scientist, WWL NHS Foundation Trust, Wigan, UK (Mar 2023-Sep 2023)
+  - Leveraged Qlik and Python to analyze healthcare data, anticipating a 20% reduction in patient length of stay by identifying post-pandemic factors and recommending targeted improvements.
+  - Successfully implemented the K-prototype clustering model, categorizing patients based on multiple categorical and continuous variables.
   - Collaborated with healthcare teams, contributing to data-driven decisions and operational enhancements.
 - Quantitative Trader (Jan 2021-Oct 2022)
   - Conducted comprehensive stock data analysis, including data crawling, preprocessing, warehousing, mining, and visualization, while also researching trading strategies.
   - Developed, back-tested, and deployed trading scripts, alongside building and implementing an ETL (Extract, Transform, Load) process for efficient data management.
-- Summer Intern (Jul 2019-Aug 2019)
-  - Shanghai Stock Exchange, Shanghai, China
+- Summer Intern, Shanghai Stock Exchange, Shanghai, China (Jul 2019-Aug 2019)
   - Led a team of 6 students and presented a research project titled "Taiwan, Mainland China, and U.S. IPO and Price Limit Development History and Current Situation."
 
 **Relevant Activities:**
-- Real-Time Cryptocurrency Price Forecasting System (Apr 2023-May 2023)
+- Real-Time Cryptocurrency Price Forecasting System (Jan 2023-June 2023)
   - Designed and implemented a real-time data processing pipeline for cryptocurrency price forecasting using Docker, NiFi, Python, MySQL, and Grafana.
   - Implemented an ARIMA model in Python for accurate time series forecasting of cryptocurrency prices.
-- Investigative Study on Generative Models for Face2Sketch (Mar 2023-Apr 2023)
+- Investigative Study on Generative Models for Face2Sketch (Jan 2023-June 2023)
   - Developed a novel generative model, CASQ (Convolutional Autoencoder with Self-Attention and Quantization).
   - Improved image quality by 30% compared to traditional convolutional models.
-- Building Big Data Systems (Feb 2023-Mar 2023)
+- Building Big Data Systems (Jan 2023-June 2023)
   - Designed efficient Hive database schema with an Entity Relationship Diagram.
   - Successfully optimized data processing infrastructure, distributing HDFS datanodes and executing MapReduce jobs.
 - 2nd place, Chunghwa Post Big Data Competition (Mar 2019-Jun 2019)
