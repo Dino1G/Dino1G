@@ -1,4 +1,4 @@
-![image](https://github.com/Dino1G/Dino1G/assets/74238273/d207d7bc-75cf-4069-af97-7aafd6b8bbc2)<!--
+<!--
 **Dino1G/Dino1G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
