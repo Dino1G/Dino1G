@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **Skills:** Python, R, SQL, Java, Docker, Hadoop, Git
 
-**Domain Knowledge** Data Science, Deep learning, Machine learning, NLP, LLM
+**Domain Knowledge:** Data Science, Deep learning, Machine learning, AI, NLP, LLM
 
 **Education:**
 - MSc in Data Science, Lancaster University, UK
