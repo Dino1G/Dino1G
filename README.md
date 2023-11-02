@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ---
 
-**Skills:** Python, R, SQL, Java, ChatALL, Docker, Hadoop, Hive, Git, NiFi, Google Analytics
+**Skills:** Python, R, SQL, Java, Docker, Hadoop, Git
+**Domain Knowledge** Data ScienceDeep learning, Machine learning, NLP, LLM
 
 **Education:**
 - MSc in Data Science, Lancaster University, UK
