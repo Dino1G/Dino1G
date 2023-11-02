@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 **Domain Knowledge:** Data Science, Deep learning, Machine learning, AI, NLP, LLM, Image processing
 
 **Education:**
-- MSc in Data Science, Lancaster University, UK
+- MSc in Data Science, Lancaster University, UK (Oct 2022-Sep 2023)
   - Dissertation: "A&E Inpatient Clustering Using K-Prototypes for Length of Stay Analysis: A Comparative Study Before and After COVID-19"
-- MBA (Certificate), National Yang Ming Chiao Tung University, Taiwan
-- BBA in Big Data Management with Program of Technology Management, Soochow University, Taiwan
+- MBA (Certificate), National Yang Ming Chiao Tung University, Taiwan (Sep 2020-Jan 2021)
+- BBA in Big Data Management with Program of Technology Management, Soochow University, Taiwan (Sep2016-Jun 2020)
   - Undergraduate Research: "NLP Applications in Media Literacy: An Analysis through LIAR"
 
 **Work Experience:**
