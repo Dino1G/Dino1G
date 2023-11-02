@@ -41,20 +41,20 @@ Here are some ideas to get you started:
   - Led a team of 6 students and presented a research project titled "Taiwan, Mainland China, and U.S. IPO and Price Limit Development History and Current Situation."
 
 **Relevant Activities:**
-- Real-Time Cryptocurrency Price Forecasting System (Jan 2023-June 2023)
+- Real-Time Cryptocurrency Price Forecasting System (Jan 2023-Jun 2023)
   - Designed and implemented a real-time data processing pipeline for cryptocurrency price forecasting using Docker, NiFi, Python, MySQL, and Grafana.
   - Implemented an ARIMA model in Python for accurate time series forecasting of cryptocurrency prices.
-- Investigative Study on Generative Models for Face2Sketch (Jan 2023-June 2023)
+- Investigative Study on Generative Models for Face2Sketch (Jan 2023-Jun 2023)
   - Developed a novel generative model, CASQ (Convolutional Autoencoder with Self-Attention and Quantization).
   - Improved image quality by 30% compared to traditional convolutional models.
-- Building Big Data Systems (Jan 2023-June 2023)
+- Building Big Data Systems (Jan 2023-Jun 2023)
   - Designed efficient Hive database schema with an Entity Relationship Diagram.
   - Successfully optimized data processing infrastructure, distributing HDFS datanodes and executing MapReduce jobs.
 - 2nd place, Chunghwa Post Big Data Competition (Mar 2019-Jun 2019)
   - Team name: DATA 4MERS (4 students and 1 professor)
   - Responsible for pitching, presenting the project, data analysis, and data mining.
   - Proposed a creative approach to integrate online and offline mail and package delivery services.
-- Marketing strategies for The Lalu Hotel using Google Analytics
+- Marketing strategies for The Lalu Hotel using Google Analytics (Sep 2019-Jan 2020)
   - Led a team of 5 students.
   - Responsible for pitching, presenting the project, data analysis, and data mining.
   - Analyzed the hotel’s GA data and designed A/B tests through UI and UX.
