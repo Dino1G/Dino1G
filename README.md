@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - Building Big Data Systems (Jan 2023-Jun 2023)
   - Designed efficient Hive database schema with an Entity Relationship Diagram.
   - Successfully optimized data processing infrastructure, distributing HDFS datanodes and executing MapReduce jobs.
-- Reinforcement Learning in Online Ad Optimization
+- Reinforcement Learning in Online Ad Optimization (Jan 2023-Jun 2023)
   - Implemented and compared multi-armed bandit algorithms—ϵ-greedy, UCB, UCBRL, Thompson Sampling—on a real-world dataset to optimize online advertising strategies.
   - Increased ad conversion rates by 15%.
 - 2nd place, Chunghwa Post Big Data Competition (Mar 2019-Jun 2019)
