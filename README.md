@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Dino Huang 👋
 
-🔒 **Note**: Most of my work is set to private. If you're interested in viewing any of my repositories or projects, I'd appreciate it if you could reach out to me directly through [LinkedIn](https://www.linkedin.com/in/dino-huang-6ba4a6209). I'd be happy to share more about my work with you.
+🔒 **Note**: Most of my work is set to private. If you're interested in viewing any of my repositories or projects, I'd appreciate it if you could reach out to me directly through [LinkedIn](https://www.linkedin.com/in/dinohuang). I'd be happy to share more about my work with you.
 
 ---
 
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 
 **Education:**
-- MSc in Data Science, Lancaster University, UK (Oct 2022-Dec 2023)
+- MSc Data Science, Lancaster University, UK (Oct 2022-Dec 2023)
   - Dissertation: "A&E Inpatient Clustering Using K-Prototypes for Length of Stay Analysis: A Comparative Study Before and After COVID-19"
+  - Pass with Distinction
 - MBA Certificate, National Yang Ming Chiao Tung University, Taiwan (Sep 2020-Jan 2021)
 - BBA in Big Data Management with Program of Technology Management, Soochow University, Taiwan (Sep2016-Jun 2020)
   - Undergraduate Research: "NLP Applications in Media Literacy: An Analysis through LIAR"
