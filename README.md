@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 ---
 
-**Technical Skills:** Python, R, SQL, Java, Docker, Hadoop, Git, Google Analytics
+**Technical Skills:** Python, R, SQL, Java, Docker, Hadoop, Hive, Git, Google Analytics, Linux
 
 **Domain Knowledge:** Data Science, Deep learning, Machine learning, AI, NLP, LLM, Image processing
+
 
 **Education:**
 - MSc in Data Science, Lancaster University, UK (Oct 2022-Sep 2023)
